@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyTrips</string>
+    <string name="Login">Login</string>
+    <string name="oi">Please sing in to continue.</string>
+    <string name="Email">Email</string>
+    <string name="Password">MyTrips</string>
+
+</resources>
